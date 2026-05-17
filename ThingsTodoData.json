@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "name": "Camel Ride Adventures",
+      "img": "https://i.ibb.co/12pMDZ7/camel.jpg",
+      "description": "Most camel rides in Egypt are offered as part of guided tours. Experienced guides will ensure your safety and comfort, share interesting facts about the desert and the camels, and might even teach you some basic camel riding techniques."
+    },
+    {
+      "name": "Sea Exploring",
+      "img": "https://i.ibb.co/DRr7yXc/yaght.jpg",
+      "description": "A luxurious yacht charter in the Red Sea is an unforgettable way to experience the crystal-clear waters, vibrant coral reefs, and stunning scenery of this incredible destination."
+    },
+    {
+      "name": "Unveiling the Wonders",
+      "img": "https://i.ibb.co/qCcf5ty/temple.jpg",
+      "description": "Consider your interests. If you're fascinated by pharaohs and their burial practices, the Valley of the Kings might be a priority. If grand, sprawling complexes intrigue you, Karnak or Luxor Temple might be ideal."
+    },
+    {
+      "name": "Soaring Above The Sands",
+      "img": "https://i.ibb.co/kgRYnbm/airballon.jpg",
+      "description": "Imagine drifting gently above the ancient Egyptian landscape in a colorful hot air balloon. As the sun paints the sky with vibrant hues, you witness the majestic pyramids rise from the desert sands, temples unfold their secrets, and the lifeblood of Egypt, the Nile River, snakes its way through the fertile valley below."
+    },
+    {
+      "name": "Night Star Watching",
+      "img": "https://i.ibb.co/MRYm8Sq/sky.jpg",
+      "description": "Egypt, with its vast deserts and minimal light pollution, offers some of the most breathtaking stargazing opportunities in the world. Imagine lying beneath a blanket of stars, millions of twinkling celestial bodies illuminating the inky black canvas of the night sky."
+    },
+    {
+      "name": "Safari Adventures",
+      "img": "https://i.ibb.co/stvJsbs/safari.jpg",
+      "description": "Unlike many other African countries, Egypt isn't the first place that comes to mind for a safari adventure. However, Egypt offers unique desert landscapes and a chance to see a different kind of wildlife on an Egyptian safari."
+    }
+  ]
+}
