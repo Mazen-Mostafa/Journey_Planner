@@ -1,0 +1,62 @@
+.suggested-cities {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+.contacts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.suggested-plans {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.custom-multiselect {
+  background-color: white; /* Background color of the input */ /* Border color */
+  color: #333; /* Text color */
+}
+
+.custom-multiselect .optionListContainer {
+  background-color: #fff; /* Background color of the dropdown list */
+  border: 1px solid #ccc; /* Border color */
+}
+
+.custom-multiselect .highlightOption {
+  background-color: #869a90; /* Highlight color for options */
+  color: white; /* Text color for highlighted option */
+}
+
+.custom-multiselect .option {
+  padding: 5px; /* Padding for options */
+  color: #333; /* Text color */
+}
+
+.custom-multiselect .option:hover {
+  background-color: #869a90; /* Hover background color for options */
+  color: white; /* Text color on hover */
+}
+
+.custom-multiselect .chip {
+  background-color: #869a90; /* Background color for selected items */
+  color: white; /* Text color for selected items */
+}
+
+.custom-multiselect .searchBox {
+  background-color: #e0e0e0; /* Background color of the search box */
+  color: #333; /* Text color */
+}
+
+.custom-multiselect .searchBox input {
+  background-color: transparent; /* Transparent background for input */
+  border: none; /* No border for input */
+  color: #333; /* Text color */
+}
+
+.custom-multiselect .searchBox input::placeholder {
+  color: #869a90; /* Placeholder text color */
+}

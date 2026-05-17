@@ -1,0 +1,22 @@
+--Welcome to London, United Kingdom! On your first day, we have a fantastic itinerary
+ planned for you based on your interests in exploring Royal London. Your day will start
+  with a visit to the iconic Tower of London, where you can immerse yourself in the rich
+   history and marvel at the Crown Jewels. Afterward, you can head to Hawksmoor Air Street,
+    a renowned eatery, to enjoy a delicious meal and soak in the vibrant atmosphere. Next, 
+    you will have the opportunity to join the Early Access Tower of London Tour, which includes 
+    the mesmerizing Opening Ceremony and a delightful cruise along the Thames. To end your day on a
+    igh note, we recommend dining at Côte St Katharine Docks, where you can savor exquisite French 
+    cuisine with a stunning waterfront view. Don't forget to visit Westminster Abbey, a must-see attraction
+     known for its architectural beauty and historical 
+     significance. Enjoy your solo adventure exploring Royal London!
+
+
+{On the second day of your trip to London, you have a fantastic itinerary lined up! 
+Start your day by visiting St. James's Park, a beautiful green space where you can relax 
+and enjoy the serene surroundings. Next, head to Buckingham Palace, the iconic residence 
+of the British monarch, to witness the Changing of the Guard ceremony. For lunch, try Rudy's 
+Pizza Napoletana on Tottenham Court Road, where you can savor delicious Neapolitan-style pizza. 
+Afterward, immerse yourself in history and culture at The British Museum, home to a vast collection
+ of art and artifacts from around the world. Finally, end your day with a memorable dining experience 
+at The Ledbury,
+ a renowned eatery known for its exquisite cuisine. Enjoy your second day in London!}

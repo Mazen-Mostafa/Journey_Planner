@@ -1,0 +1,5 @@
+ -- npm run dev
+ -- npx json-server --watch data/ThingsTodoData.json --port 8000
+ -- npx json-server --watch data/placesData.json --port 8500 
+ -- npx json-server --watch data/Egypt.json --port 8700
+ 
