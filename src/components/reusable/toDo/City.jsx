@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const City = ({ data }) => {
   return (
-    <div className="city flex flex-col overflow-hidden bg-[white] shadow-xl rounded-2xl">
+    <div className=" min-w-[250px] flex flex-col overflow-hidden bg-[white] shadow-xl rounded-2xl">
       <div className="w-full overflow-hidden">
         <img
           className="w-full h-[300px]"

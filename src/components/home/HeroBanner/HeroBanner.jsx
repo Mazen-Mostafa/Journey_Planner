@@ -10,15 +10,6 @@ const HeroBanner = () => {
           <span className="text-light-green">&</span>
           <br /> Create Your Trip Plans.
         </h2>
-
-        <div className="mt-[70px] p-5 rounded-3xl flex bg-[white]  sm:flex-row flex-col items-center justify-between">
-          <p className="text-dark-green text-[24px]">
-            Check Our Application now{" "}
-          </p>
-          <button className={`${styles.buttonStyle}  ml-3 bg-dark-green`}>
-            DownLoad
-          </button>
-        </div>
       </div>
 
       <div className="w-[700px] lg:block hidden rounded-2xl overflow-hidden">
